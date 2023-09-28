@@ -5,11 +5,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Vivo en San Rafael Mendoza 
+💡 &nbsp;Vivo en San Rafael, Mendoza Argentina
 
 🎓 &nbsp;Soy estudiante de la tecnicatura en programacion en UTN
 
-✍️ &nbsp;En mi tiempo libre veo peliculas
+✍️ &nbsp;En mi tiempo libre veo peliculas y hago deporte
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
