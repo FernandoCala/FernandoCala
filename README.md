@@ -35,6 +35,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="fernando221298@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="fernando221298@gmail.com"><img src="https://img.shields.io/badge/-fernando221298@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
